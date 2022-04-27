@@ -9,3 +9,6 @@ Instructions:
   
 The JavaScript Bookmarklet code will execute.
 
+This is a testing repository.
+Full the up to date repository go to https://github.com/ChristopherTopalian/Topalian_JavaScript_Bookmarklets.
+
